@@ -1,2 +1,2 @@
 FROM node:latest
-RUN npm --global surge
+RUN npm install --global surge
